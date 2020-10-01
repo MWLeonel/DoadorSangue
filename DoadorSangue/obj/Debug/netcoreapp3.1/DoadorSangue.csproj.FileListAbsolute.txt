@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\bin\Debug\netcoreapp3.1\DoadorSangue.exe
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\bin\Debug\netcoreapp3.1\DoadorSangue.deps.json
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\bin\Debug\netcoreapp3.1\DoadorSangue.runtimeconfig.json
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\bin\Debug\netcoreapp3.1\DoadorSangue.runtimeconfig.dev.json
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\bin\Debug\netcoreapp3.1\DoadorSangue.dll
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\bin\Debug\netcoreapp3.1\DoadorSangue.pdb
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\obj\Debug\netcoreapp3.1\DoadorSangue.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\obj\Debug\netcoreapp3.1\DoadorSangue.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\obj\Debug\netcoreapp3.1\DoadorSangue.AssemblyInfo.cs
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\obj\Debug\netcoreapp3.1\DoadorSangue.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\obj\Debug\netcoreapp3.1\DoadorSangue.dll
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\obj\Debug\netcoreapp3.1\DoadorSangue.pdb
+C:\Users\Max\Desktop\DoadorSangue\DoadorSangue\obj\Debug\netcoreapp3.1\DoadorSangue.genruntimeconfig.cache
